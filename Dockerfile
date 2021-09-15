@@ -1,4 +1,4 @@
-FROM php:7.0-fpm-alpine
+FROM php:7.1.32-fpm-alpine
 
 LABEL Author="Virink <virink@outlook.com>"
 
